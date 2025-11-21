@@ -44,7 +44,7 @@ Este proyecto integra las 4 unidades académicas de la asignatura de Álgebra Li
 
 1.  Clona este repositorio:
     ```bash
-    git clone [[https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/LeonardoLopez85/UNEMI-TI-C4-AL-CP2.git)]([https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/LeonardoLopez85/UNEMI-TI-C4-AL-CP2.git))
+    git clone [https://github.com/LeonardoLopez85/UNEMI-TI-C4-AL-CP2.git](https://github.com/LeonardoLopez85/UNEMI-TI-C4-AL-CP2.git)
     ```
 2.  Abre MATLAB y navega hasta la carpeta del proyecto.
 3.  Ejecuta el archivo principal:
