@@ -54,6 +54,7 @@ Este proyecto integra las 4 unidades académicas de la asignatura de Álgebra Li
 
 ## 📊 Resultados Esperados
 ![Gráfico de la Simulación](resultado_robot.png)
+
 Al ejecutar el script, obtendrás:
 1.  **Salida en Consola:** Un análisis paso a paso mostrando los vectores, el valor del determinante, la solución del sistema de ecuaciones y el análisis del Kernel/Rango.
 2.  **Gráfico:** Una ventana de figura (`figure`) que visualiza:
