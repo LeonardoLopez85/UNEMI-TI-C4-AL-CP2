@@ -3,7 +3,7 @@ Algebra Lineal - Componente Practico 2
 
 # Simulación y Control de Brazo Robótico en 2D 🤖📐
 
-Este proyecto presenta un caso práctico integral desarrollado en **MATLAB**, diseñado para demostrar la aplicación de los conceptos fundamentales del **Álgebra Lineal** en el campo de las Tecnologías de la Información y la Robótica.
+Este proyecto presenta un caso práctico integral desarrollado en **MATLAB**, diseñado para demostrar la aplicación de los conceptos fundamentales del **Álgebra Lineal** en el campo de las Tecnologías de la Información.
 
 El script simula el comportamiento cinemático de un brazo robótico de dos segmentos, resolviendo problemas de posicionamiento, validación de movimiento y rotación automatizada mediante operaciones matriciales.
 
@@ -47,4 +47,26 @@ Este proyecto integra las 4 unidades académicas de la asignatura de Álgebra Li
     git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
     ```
 2.  Abre MATLAB y navega hasta la carpeta del proyecto.
-3.
+3.  Ejecuta el archivo principal:
+    ```matlab
+    caso_algebra_final
+    ```
+
+## 📊 Resultados Esperados
+
+Al ejecutar el script, obtendrás:
+1.  **Salida en Consola:** Un análisis paso a paso mostrando los vectores, el valor del determinante, la solución del sistema de ecuaciones y el análisis del Kernel/Rango.
+2.  **Gráfico:** Una ventana de figura (`figure`) que visualiza:
+    * Los vectores originales (posición inicial en Azul).
+    * Los vectores transformados (posición rotada en Rojo).
+    * El punto objetivo (Target) que el robot intenta alcanzar.
+
+## 👤 Autor
+
+**Leonardo Lopez**
+* Carrera: Tecnologías de la Información (En Línea)
+* Institución: Universidad Estatal de Milagro (UNEMI)
+* Asignatura: Álgebra Lineal - Primer Nivel
+
+---
+*Este proyecto fue desarrollado como parte de la evaluación final de la asignatura.*
