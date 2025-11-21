@@ -49,7 +49,7 @@ Este proyecto integra las 4 unidades académicas de la asignatura de Álgebra Li
 2.  Abre MATLAB y navega hasta la carpeta del proyecto.
 3.  Ejecuta el archivo principal:
     ```matlab
-    caso_algebra_final
+    algebra_cp2_LeonardoLopez.m
     ```
 
 ## 📊 Resultados Esperados
